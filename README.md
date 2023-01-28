@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-An example of the usage of the library may be found in the included test cases.  The tests may be run as follow:
+An example of the usage of the function in the library may be found in the included test cases.  The tests may be run as follow:
 
 ```shell script
 python -m pytest
