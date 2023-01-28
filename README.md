@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The library is used to generate a variety synthetic data representing the photons of Astronomical sources hiting a CCD detector input array. Several types of source can be modelled:
+The library is used to generate a variety synthetic data representing the photons of Astronomical sources hitting a CCD detector 2D input array. Several types of source can be modelled:
 
 - Flat field sources 
 - 2D Gaussian source based on the corresponding PDF function
