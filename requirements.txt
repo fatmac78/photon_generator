@@ -1,0 +1,6 @@
+numpy==1.23.3
+pytest==7.2.1
+aotools==1.0.6
+scipy==1.9.1
+astropop==0.5.4
+
